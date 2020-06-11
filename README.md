@@ -5,10 +5,12 @@ Installation
 Use the package manager pip to install repository.
 
 pip install git+https://github.com/thavha/Regression-predict-group-5
+
 Upgrade
 Use the package manager pip to upgrade the repo.
 
 pip install --upgrade git+https://github.com/thavha/Regression-predict-group-5
+
 Usage
 This package is not open for outside contribution
 
