@@ -3,8 +3,12 @@ Repository for the regression predict at EDSA-2020
 
 Installation
 
-Use the package manager pip to install repository.
+Use pip to install repository.
 pip install git+https://github.com/thavha/Regression-predict-group-5
+
+Clone
+
+Clone this repo to your local machine using https://github.com/thavha/Regression-predict-group-5
 
 Upgrade
 
